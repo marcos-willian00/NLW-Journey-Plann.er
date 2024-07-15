@@ -2,7 +2,7 @@
 
 Backend do **Plann.er**
 
-O Plann.er é um aplicação voltada ao gerenciamento de viagens.
+O Plann.er é uma aplicação voltada ao gerenciamento de viagens.
 
 ## Linguagem e ferramentas utilizadas:
 
