@@ -4,7 +4,7 @@ Backend do **Plann.er**
 
 O Plann.er é um aplicação voltada ao gerenciamento de viagens.
 
-## Linguagem e ferramentas utilizadas
+## Linguagem e ferramentas utilizadas:
 
 - TypeScript
   
@@ -14,7 +14,7 @@ O Plann.er é um aplicação voltada ao gerenciamento de viagens.
 - Zod
 - Nodemailer
 
-## Execução do Pass.in
+## Execução do Plann.er
 
 ### 1. Pré-requisitos
 
@@ -53,3 +53,15 @@ npm run dev
   ```
   npm start
   ```
+
+### 5. Executar migrations
+
+```
+npx prisma migrate dev
+```
+
+### 6. Executar o Prisma Studio
+
+```
+npx prisma studio
+```
