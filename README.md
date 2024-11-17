@@ -1,3 +1,7 @@
+<div align="center"> 
+<img src = "https://github.com/user-attachments/assets/604808bb-03ce-4111-85a2-a5561977846f" width=300px>
+</div>
+
 ## Plann.er
 
 Backend do **Plann.er**
@@ -22,7 +26,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Clone o repositório:
   ```
-  https://github.com/marcos-willian00/NLW-Journey-Plann.er.git
+  https://github.com/marcos-willian00/Plann.er.git
   ```
 
 - Você instalou a versão mais recente do NodeJS?
